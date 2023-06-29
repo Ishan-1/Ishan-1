@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishan-1
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning how to survive
+- 🌱 I’m currently MERN Stack
 - 💞️ I’m looking to collaborate on absolutely everything
 - 📫 How to reach me : Search 'Ishan Gupta' on Linkedin.
 <!---
