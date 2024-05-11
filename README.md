@@ -28,7 +28,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Ishan+Gupta">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Ishan+Gupta+IIITH">「 Google Me 」</a>
     <br>
     「 I am an undergraduate student in IIIT Hyderabad 」
     <br>
