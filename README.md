@@ -82,6 +82,7 @@
 ## Top Open Source -
 [![Location Project](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=location-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/location-project)
 [![C Shell](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=c-shell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/c-shell)
+[![xv6-modified](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=xv6-modified&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/xv6-modified)
 
 
 <p align="left">
