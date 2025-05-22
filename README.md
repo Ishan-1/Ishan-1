@@ -76,13 +76,14 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Langchain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
 
 <br/>
 
 ## Top Repos -
 [![Location Project](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=location-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/location-project)
 [![C Shell](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=c-shell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/c-shell)
-[![xv6-modified](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=xv6-modified&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/xv6-modified)
+[![AgenticMootCourt](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=AgenticMootCourt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/AgenticMootCourt)
 [![GFS-Append](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=GFS-Append&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/GFS-Append)
 
 
