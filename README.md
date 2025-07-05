@@ -81,7 +81,7 @@
 <br/>
 
 ## Top Repos -
-[![Location Project](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=location-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/location-project)
+[![VoxPages](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=VoxPages&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/VoxPages)
 [![C Shell](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=c-shell&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/c-shell)
 [![AgenticMootCourt](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=AgenticMootCourt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/AgenticMootCourt)
 [![GFS-Append](https://github-readme-stats.vercel.app/api/pin/?username=Ishan-1&repo=GFS-Append&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Ishan-1/GFS-Append)
